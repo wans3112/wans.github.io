@@ -165,3 +165,5 @@ tinysou_search:     ## http://tinysou.com/
 
 gems:
  - jemoji
+
+theme: jekyll-theme-cayman
